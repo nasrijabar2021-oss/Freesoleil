@@ -7,7 +7,7 @@ export const About = () => {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="max-w-4xl mx-auto">
                     <div className="text-center">
-                        <img src="https://picsum.photos/id/237/200/200" alt="Alex Soleil" className="mx-auto rounded-full shadow-2xl mb-8" />
+                        <img src="https://picsum.photos/id/661/200/200" alt="Alex Soleil" className="mx-auto rounded-full shadow-2xl mb-8" />
                         <h1 className="text-5xl font-extrabold font-heading text-brand-charcoal">About FreeSoleil</h1>
                         <p className="mt-4 text-xl text-gray-600 font-sans">The story behind the adventure.</p>
                     </div>
