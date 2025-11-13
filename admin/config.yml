@@ -3,8 +3,8 @@
       repo: https://github.com/nasrijabar2021-oss/Freesoleil # Replace with your GitHub repository
       branch: main # Or your default branch
 
-    media_folder: "static/uploads" # Folder where media files will be stored
-    public_folder: "/uploads" # Public path to the media folder
+    media_folder: "dist/assets" # Folder where media files will be stored
+    public_folder: "/assets" # Public path to the media folder
 
     collections:
       - name: "blog"

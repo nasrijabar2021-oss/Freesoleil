@@ -59,7 +59,7 @@ export const Home = () => {
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex flex-col md:flex-row items-center gap-12">
                         <div className="md:w-1/3">
-                            <img src="https://picsum.photos/id/237/400/400" alt="Alex Soleil" className="rounded-full shadow-lg mx-auto" />
+                            <img src="https://picsum.photos/id/661/400/400" alt="Alex Soleil" className="rounded-full shadow-lg mx-auto" />
                         </div>
                         <div className="md:w-2/3 text-center md:text-left">
                             <h2 className="text-4xl font-bold font-heading-alt mb-4">Hi, I'm Alex Soleil</h2>
