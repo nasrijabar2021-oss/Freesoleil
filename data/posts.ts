@@ -3,7 +3,7 @@ import { Post, Author, Category } from '../types';
 
 const author: Author = {
   name: 'Alex Soleil',
-  avatarUrl: 'https://picsum.photos/id/237/100/100'
+  avatarUrl: 'https://picsum.photos/id/661/100/100'
 };
 
 export const categories: Category[] = [
